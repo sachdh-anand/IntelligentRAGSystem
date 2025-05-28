@@ -1,0 +1,21 @@
+[project]
+name = "intelligent-rag-system"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "chromadb>=1.0.10",
+    "docling>=2.34.0",
+    "numpy>=1.26.4",
+    "ollama>=0.4.8",
+    "python-dotenv>=1.1.0",
+    "sentence-transformers>=4.1.0",
+    "streamlit>=1.45.1",
+]
+
+[dependency-groups]
+dev = [
+    "black>=25.1.0",
+    "pytest>=8.3.5",
+]
