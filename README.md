@@ -7,6 +7,8 @@ A production-grade, smart RAG (Retrieval-Augmented Generation) system that lets 
 [![Ollama](https://img.shields.io/badge/Ollama-0.4.8+-green.svg)](https://ollama.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![UI Screenshot](assets/snapshot.png)
+
 ## 🔍 Overview
 
 The Intelligent Document Assistant transforms static documents (PDFs, Word files, text) into an interactive knowledge base you can chat with. It features:
